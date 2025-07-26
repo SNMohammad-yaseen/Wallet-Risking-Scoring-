@@ -1,3 +1,4 @@
+# Wallet Risk Scoring
 Wallet Risk Scoring from Scratch 
 Problem Statement
 Given a list of wallet addresses, the objective is to build a risk scoring system that assigns a score between 0 to 1000 to each wallet based on its historical transaction behavior with lending protocols like Compound V2/V3. The score should reflect how responsible or risky the wallet's behavior has been, considering factors like borrowing, repaying, and liquidations.
